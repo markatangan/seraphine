@@ -1,0 +1,26 @@
+{
+  "name": "seraphine",
+  "version": "1.0.0",
+  "description": "team-seraphine hackaton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markatangan/seraphine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markatangan/seraphine/issues"
+  },
+  "homepage": "https://github.com/markatangan/seraphine#readme",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "typescript": "^5.2.2"
+  }
+}
